@@ -1,0 +1,5 @@
+{
+  "name": "valentine-week",
+  "private": true,
+  "workspaces": ["packages/*"]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "valentine-cli",
+  "version": "1.0.0",
+  "description": "A Valentine Week love terminal — run it and smile",
+  "bin": {
+    "valentine-cli": "./src/index.js"
+  },
+  "files": [
+    "src/"
+  ],
+  "keywords": [
+    "valentine",
+    "love",
+    "cli",
+    "terminal",
+    "heart"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.6.2"
+  },
+  "type": "module"
+}
